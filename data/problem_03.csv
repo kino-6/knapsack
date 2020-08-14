@@ -1,0 +1,10 @@
+# allocation_of_program
+capacity,10,4,1,2,10,10
+weight,5.5,7.2,3.1,6.1,11,4.5,2.0
+# setting
+CAP_OVER_TH,-5.0
+n_individuals,1000
+n_generations,100
+p_cxpb,0.5
+p_mutpb,0.2
+p_mutate_rate,0.2
