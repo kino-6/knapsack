@@ -2,6 +2,12 @@
 knapsack by deap
 
 # setup
+1. install conda  
+
+autor env:
+  conda version : 4.8.2
+
+2. install deap
 ```bat
 pip install deap
 ```
